@@ -11,3 +11,25 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twenty-seventeen
 */
+
+
+
+.details {
+    display: flex;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo {
+    flex: 1;
+}
+
+.acf-map {
+	flex: 1;
+	height: 400px;
+	border: #ccc solid 1px;
+	margin: 20px 0;
+}
